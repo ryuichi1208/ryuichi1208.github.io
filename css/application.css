@@ -1,0 +1,32 @@
+#section0 .profile-main, .profile-skill {
+    color: #FFFFFF;
+}
+
+#section0 h1 {
+    color: #FFBF00;
+}
+
+#logo-image {
+    width: 120px;
+    height: auto;
+}
+
+.slide {
+    text-align: center;
+}
+
+.radius-img {
+  backgroud: #ccc ;
+  -webkit-border-radius: 10px ;
+  -moz-border-radius: 10px ;
+  border-radius: 10px ;
+  width: 100% ;
+}
+
+.product-description {
+    color: #FFFFFF;
+}
+
+.product-link {
+    color: #8CFFA9;
+}
