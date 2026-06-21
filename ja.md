@@ -23,6 +23,8 @@ mail: ryucrosskey@gmail.com
 
 ## Skills
 
+- テックリード / チームリード
+  - SREチームの立ち上げと推進、技術選定、メンバー育成、組織横断でのSRE文化醸成
 - SRE
   - SLI/SLO設計、エラーバジェット運用、大規模組織へのSRE導入
 - インシデント管理

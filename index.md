@@ -22,6 +22,8 @@ mail: ryucrosskey@gmail.com
 
 ## Skills
 
+- Tech Lead / Team Lead
+  - Building up and driving SRE teams, technology selection, mentoring members, fostering an SRE culture across the organization
 - SRE
   - SLI/SLO design, error budget operations, introducing SRE practices into large-scale organizations
 - Incident Management
