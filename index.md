@@ -42,20 +42,21 @@ mail: ryucrosskey@gmail.com
 ## Experience
 
 ### IVRy, Inc. (2024/11 ~ Present)
-- **SRE** - Conversational voice AI SaaS
-- Driving SRE practices, implementing and operating the observability platform
+- **SRE** — Conversational voice AI SaaS
+- Drove SRE practices across the organization, implementing and operating the observability platform to lead reliability improvements
 
 ### GMO Pepabo, Inc. (2021/07 ~ 2024/10)
-- **SRE** - Online shop building service
-- Driving SRE practices, MySQL performance improvements, operating mail/DNS/FTP servers
+- **SRE** — Online shop building service
+- Drove SRE practices and improved MySQL performance, while operating legacy mail/DNS/FTP infrastructure to keep the service running without interruption
 
 ### Open Stream, Inc. (2019/04 ~ 2021/06)
-- **Backend/Infrastructure Engineer** - News portal site with approximately 600 million monthly page views
-- Migration of 100+ physical servers to a private cloud, building CI/CD infrastructure
+- **Backend/Infrastructure Engineer** — Large-scale news portal serving ~600 million monthly page views
+- Completed a large-scale migration of 100+ physical servers to a private cloud with zero downtime
+- Built CI/CD infrastructure from scratch, balancing deployment safety and speed
 
 ### Undisclosed (2016/04 ~ 2019/03)
-- **Linux Engineer** - File system development for Linux
-- Design and implementation of quota functionality for an XFS-based file system
+- **Linux Engineer** — File system development for Linux
+- Designed and implemented quota functionality at the kernel level for an XFS-based file system
 
 ## Speaking
 
