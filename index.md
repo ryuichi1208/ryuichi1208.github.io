@@ -36,6 +36,8 @@ mail: ryucrosskey@gmail.com
   - IaC with Terraform and Ansible
 - Backend Development
   - Python, Go, Ruby
+- Frontend Development
+  - TypeScript, React, Next.js, Tailwind CSS
 - Database Management
   - MySQL/PostgreSQL performance tuning, query optimization
 - Security
