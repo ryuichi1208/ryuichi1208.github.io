@@ -16,8 +16,7 @@ permalink: /ja/
 - [Blog](https://ryuichi1208.hateblo.jp/)
 - [SpeakerDeck](https://speakerdeck.com/ryuichi1208)
 - [Zenn](https://zenn.dev/ryuichi1208)
-- [Qiita](https://qiita.com/ryuichi1208)
-- [ブクログ](https://booklog.jp/users/ryuichi1208)
+
 
 mail: ryucrosskey@gmail.com
 
